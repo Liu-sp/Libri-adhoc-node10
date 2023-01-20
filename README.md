@@ -8,6 +8,8 @@ The introduction of two rooms can be seen below.
 ### **The office room**
 The office room is an irregular room, the height of the room is 4.2 m. The size of the room can be seen in the figure below. Because the room size is large, and because the floor is laid with smooth tiles, the room is highly reverberant with the T60 around 1.39s. Because the room is far from noisy environments, the recorded speech has little additive noise.
 
+>The red dot represents the origin of the ground coordinate system. The blue dots represent the positions of the ad-hoc nodes. The grey square represent the pillar. The yellow part represent the desk. The loudspeaker icons represent the positions and orientations of the speakers. Each configuration has two sub-configurations. The difference between the sub-configurations are that the directions of the ULAs at the ad-hoc nodes are different. For each sub-configuration, each position of the loudspeaker replays only one speaker.  The term ‘pos’ is short for position. 
+
 <img src="https://github.com/Liu-sp/Libri-adhoc-nodes10/blob/main/images/room1_1.png" width="450"><img src="https://github.com/Liu-sp/Libri-adhoc-nodes10/blob/main/images/room1_2.png" width="450">
 
 ### **The conference room**
@@ -15,7 +17,6 @@ The office room is an irregular room, the height of the room is 4.2 m. The size 
 <img src="https://github.com/Liu-sp/Libri-adhoc-nodes10/blob/main/images/room2_1.png" width="450"><img src="https://github.com/Liu-sp/Libri-adhoc-nodes10/blob/main/images/room2_2.png" width="450">
 
 
-The difference between the sub-configurations are that the directions of the ULAs at the ad-hoc nodes are different. For each sub-configuration, each position of the loudspeaker replays only one speaker.  
 
 ## **Download Link**
 The test data of Libri-adhoc-nodes10 is available at now.
