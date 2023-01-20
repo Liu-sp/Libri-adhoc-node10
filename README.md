@@ -7,7 +7,8 @@ The introduction of two rooms can be seen below.
 
 ### The office room
 The office room is an irregular room, the height of the room is 4.2 m. The size of the room can be seen in the figure below. Because the room size is large, and because the floor is laid with smooth tiles, the room is highly reverberant with the T60 around 1.39s. Because the room is far from noisy environments, the recorded speech has little additive noise.
-<img src="https://github.com/Liu-sp/Libri-adhoc-nodes10/blob/main/images/room1_1.png">
+<img src="https://github.com/Liu-sp/Libri-adhoc-nodes10/blob/main/images/room1_1.png" width="450">
+<img src="https://github.com/Liu-sp/Libri-adhoc-nodes10/blob/main/images/room1_2.png" width="450">
 The difference between the sub-configurations are that the directions of the ULAs at the ad-hoc nodes are different. For each sub-configuration, each position of the loudspeaker replays only one speaker.  
 
 ## Download Link
